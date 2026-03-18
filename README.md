@@ -2,9 +2,9 @@
 
 Quick disclaimer: This might not be the "proper" way to write tests according to the rules of Serious Software ™️ testing. This works for me, and if you don't have tests yet, it's gonna work for you.
 
-# Unity War Crimes Checker
+# Unity Asset Validation Tests
 
-**(Unity AssetValidationTests)**
+**~~(Unity War Crimes Checker)~~**
 
 As you work on a project, requirements change, assets get deleted, and promises get broken, and when you look back, you not only have a lot of tech debt... you don't even know how much debt you have!
 
